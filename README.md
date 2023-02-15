@@ -22,14 +22,4 @@ You can use online link for the project now.
 
 Ver1.0 is the first version, maybe the last too. As Microsoft make it possible to use easily, everybody can use that one. This project is created for my fans and friends. If you want to connect me, you can focus my bilibili account and wechat. This is Smile, let's meet on the mountain top.
 
-1.0版本是第一本正式版本，也可能是最后一个。微软已经接入openai，每个人都可以更方便的使用它。这个项目为我的粉丝和朋友们创立。如果你想联系我，可以关注bilibili账号和微信公众号：共享技术官.
 
-我是Smile，我们顶峰再会。
-
-### Contact me.
-
-[BiliBili](https://space.bilibili.com/34147682)
-
-[微信公众号](https://mp.weixin.qq.com/s/PreIh5_A0Tuo4_D-7h61sw)
-
-[![微信公众号二维码](https://i.postimg.cc/2jTQgP9g/qrcode-for-gh-0e5c8d2cb1b0-258.jpg)](https://postimg.cc/pyh5F1HB)
