@@ -48,7 +48,10 @@
                 <el-col :span="22" style="margin-bottom:24px;">
                     <el-form label-width="auto" size="large">
                         <el-input type="textarea" v-model="prompt" placeholder="Input text here. 在这里输入内容"
-                            rows="3"></el-input></el-form>
+                            rows="3" ></el-input>
+                    </el-form>
+
+
                 </el-col>
                 <el-col :span="2" justify="end">
 
@@ -72,7 +75,7 @@ export default {
             api_key: "",
             prompt: '',
             chatMsg: '',
-            prompt: '',
+
             max_tokens: 1000,
             model: 'text-davinci-003',
             mobile: true,
